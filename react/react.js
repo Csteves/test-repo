@@ -1,0 +1,1 @@
+const myName = "Craig Stevens";
